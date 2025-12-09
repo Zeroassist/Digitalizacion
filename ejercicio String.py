@@ -17,3 +17,7 @@ for c in per:
 print("La letra "+str(lett)+" sale: "+str(cont)+" veces")
 ult:int=len(per)-3
 print(str(per[ult:]))
+
+
+#kaishclcjashcdascjashc
+#ksdhckajhcajghcaj
